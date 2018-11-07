@@ -1,0 +1,13 @@
+<html>
+    <head></head>
+    <body>
+        <p>What can I say besides: "{{.Story}}"</p>
+
+        {{if .DBStatus}}
+        <p>The database connection is alive!</p>
+        {{else}}
+        <p>The database connection is dead!</p>
+        {{end}}
+
+    </body>
+</html>

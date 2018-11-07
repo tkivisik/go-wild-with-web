@@ -1,1 +1,3 @@
-# go-wild-with-web
+# Go Wild With Web
+
+Basic Go web development playground.
